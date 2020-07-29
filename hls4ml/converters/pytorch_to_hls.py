@@ -9,6 +9,8 @@ import re
 
 from hls4ml.model import HLSModel
 
+torch = torch.nn.Module.dump_patches=True
+
 class PyTorchDataReader:
     def __init__(self, config):
         self.config = config
