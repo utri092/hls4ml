@@ -9,7 +9,4 @@ vivado_prj
 **.vscode
 my-hls-test/
 **.tar.gz
-**.pb
-**.h5
-**.pt
 **.zip
