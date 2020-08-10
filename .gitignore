@@ -7,7 +7,7 @@ pyHLSVenv/
 *.egg-info/
 vivado_prj
 *.vscode
-my-hls-test*
+my-hls-test/
 *.tar.gz
 *.pb
 *.h5
