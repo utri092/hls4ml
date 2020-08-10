@@ -6,8 +6,8 @@ sdist/
 pyHLSVenv/
 *.egg-info/
 vivado_prj
-.vscode
-my-hls-test
+*.vscode
+my-hls-test*
 *.tar.gz
 *.pb
 *.h5
